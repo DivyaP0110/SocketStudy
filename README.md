@@ -85,8 +85,10 @@ while True:
 
 ```
 ## Output:
-![WhatsApp Image 2024-04-10 at 17 38 45_be421c86](https://github.com/DivyaP0110/SocketStudy/assets/144870891/cf02db74-cf3c-402d-9d9b-3ef654a008c5)
 
+## Client:
+![WhatsApp Image 2024-04-10 at 17 38 45_be421c86](https://github.com/DivyaP0110/SocketStudy/assets/144870891/cf02db74-cf3c-402d-9d9b-3ef654a008c5)
+## Server:
 ![image](https://github.com/DivyaP0110/SocketStudy/assets/144870891/6fa3c75f-da77-413e-af82-6ac0e3fbfabd)
 
 ## Result:
