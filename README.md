@@ -85,11 +85,9 @@ while True:
 
 ```
 ## Output:
+![WhatsApp Image 2024-04-10 at 17 38 45_be421c86](https://github.com/DivyaP0110/SocketStudy/assets/144870891/cf02db74-cf3c-402d-9d9b-3ef654a008c5)
 
-![image](https://github.com/DivyaP0110/SocketStudy/assets/144870891/4b483485-b570-47c3-b099-87f97d794f39)
-
-![image](https://github.com/DivyaP0110/SocketStudy/assets/144870891/4c85451a-b9db-40af-af45-52658389ca00)
-
+![image](https://github.com/DivyaP0110/SocketStudy/assets/144870891/6fa3c75f-da77-413e-af82-6ac0e3fbfabd)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
